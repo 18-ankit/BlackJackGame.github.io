@@ -1,0 +1,43 @@
+
+body{
+    background-image: url("greentable.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    color: whitesmoke;
+    font-weight: bolder;
+}
+
+h1{
+    font-size: 5rem;
+    font-weight: bolder;
+    padding-top: 6rem;
+    color: goldenrod;
+}
+
+p{
+    font-size: 2.5rem;
+    font-weight: bolder;  
+}
+
+
+button{
+    height: 3rem;
+    color: #016f32;
+    width: 15rem;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    font-size: 1.4rem;
+    border: none;
+    border-radius: 7px;
+    word-spacing: 0.2rem;
+    margin-bottom: 18px;
+}
+
+
+
+#message-el{
+    font-style: italic;
+}
